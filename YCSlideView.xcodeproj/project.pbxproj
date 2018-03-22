@@ -56,15 +56,23 @@
 		B958E1B4206348A7005CF42A /* YCSlideView */ = {
 			isa = PBXGroup;
 			children = (
+				B958E1CD20638CE3005CF42A /* Classes */,
 				B958E1B5206348A7005CF42A /* AppDelegate.swift */,
 				B958E1B7206348A7005CF42A /* ViewController.swift */,
 				B958E1B9206348A7005CF42A /* Main.storyboard */,
 				B958E1BC206348A7005CF42A /* Assets.xcassets */,
 				B958E1BE206348A7005CF42A /* LaunchScreen.storyboard */,
 				B958E1C1206348A7005CF42A /* Info.plist */,
-				B958E1C720634941005CF42A /* SlideView.swift */,
 			);
 			path = YCSlideView;
+			sourceTree = "<group>";
+		};
+		B958E1CD20638CE3005CF42A /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				B958E1C720634941005CF42A /* SlideView.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
